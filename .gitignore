@@ -1,0 +1,5 @@
+Pipfile
+main.spec
+dist/
+build/
+start.bat
